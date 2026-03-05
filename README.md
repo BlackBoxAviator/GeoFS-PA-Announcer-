@@ -3,13 +3,19 @@ GeoFS PA Announcer
 A lightweight in-game Passenger Address (PA) system addon for GeoFS. Play realistic cabin announcements during your flights with a single keypress — no typing required.
 
 # Features
-Preset announcements — One-click buttons for the most common PA moments: boarding, cruise, descent, landing, turbulence, and a captain's message
-Real text-to-speech — Uses your browser's built-in Web Speech API to convert announcements into actual spoken audio
-Voice controls — Adjust speech rate and pitch, and choose from any voice installed on your system
-ON AIR indicator — The panel shows a live green status while an announcement is playing
-Stop anytime — A stop button appears during broadcast so you can cut the announcement immediately
-Keyboard shortcut — Toggle the panel open and closed without touching the aircraft controls
-Non-intrusive — The panel floats in the top-right corner and doesn't block your view of the sim
+Preset announcements: One-click buttons for the most common PA moments: boarding, cruise, descent, landing, turbulence, and a captain's message
+
+Real text-to-speech: Uses your browser's built-in Web Speech API to convert announcements into actual spoken audio
+
+Voice controls: Adjust speech rate and pitch, and choose from any voice installed on your system
+
+ON AIR indicator: The panel shows a live green status while an announcement is playing
+
+Stop anytime: A stop button appears during the broadcast so you can cut the announcement immediately
+
+Keyboard shortcut: Toggle the panel open and closed without touching the aircraft controls
+
+Non-intrusive: The panel floats in the top-right corner and doesn't block your view of the sim
 
 
 # Installation
