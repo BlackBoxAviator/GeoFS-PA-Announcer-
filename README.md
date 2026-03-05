@@ -17,25 +17,6 @@ Keyboard shortcut: Toggle the panel open and closed without touching the aircraf
 
 Non-intrusive: The panel floats in the top-right corner and doesn't block your view of the sim
 
-
-# Installation
-Option A — Console (no extensions needed)
-
-Open GeoFS and load into a flight
-Press F12 to open your browser's DevTools
-Go to the Console tab
-Paste the entire contents of geofs-pa-announcer-console.js and press Enter
-
-The PA panel will appear immediately. Running the snippet again will remove the addon cleanly.
-Option B — Userscript (auto-loads every session)
-
-Install Tampermonkey for your browser
-Open the Tampermonkey dashboard and click + to create a new script
-Delete the default template and paste the entire contents of geofs-pa-announcer.user.js
-Press Ctrl+S to save
-Load GeoFS — the addon will inject automatically on every visit
-
-
 # Usage
 To open the PA system, use the keyboard shortcut Shift + J
 
